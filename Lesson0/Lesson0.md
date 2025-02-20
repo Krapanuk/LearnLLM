@@ -1,6 +1,6 @@
 # Lesson 0
 
-1. Begrüßung
+0. Begrüßung
 Ich möchte euch, nach und nach, das Thema Künstliche Intelligenz zeigen.
 
 Künstliche Intelligenz klingt kompliziert, gerade weil auch das Wort "Intelligenz" vorkommt.
