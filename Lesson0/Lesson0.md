@@ -1,4 +1,4 @@
-0. Begrüßung
+# Begrüßung
 Ich möchte euch, nach und nach, das Thema Künstliche Intelligenz zeigen.
 
 Künstliche Intelligenz klingt kompliziert, gerade weil auch das Wort "Intelligenz" vorkommt.
